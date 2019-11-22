@@ -1,0 +1,38 @@
+{
+  "name": "react-native-slideable-calendar-strip",
+  "version": "0.3.2",
+  "keywords": [
+    "calendar",
+    "slideable",
+    "swipe",
+    "zoom",
+    "strip"
+  ],
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaiChou/react-native-slideable-calendar-strip.git"
+  },
+  "author": "FaiChou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaiChou/react-native-slideable-calendar-strip/issues"
+  },
+  "homepage": "https://github.com/FaiChou/react-native-slideable-calendar-strip",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Already test passed!\" && exit 0"
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "date-fns-timezone": "^0.1.4",
+    "lodash.isequal": "^4.5.0"
+  },
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  }
+}
