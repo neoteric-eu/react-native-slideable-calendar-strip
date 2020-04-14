@@ -29,7 +29,8 @@
   "dependencies": {
     "date-fns": "^1.29.0",
     "date-fns-timezone": "^0.1.4",
-    "lodash.isequal": "^4.5.0"
+    "lodash.isequal": "^4.5.0",
+    "react-native-actionsheet": "^2.4.2"
   },
   "peerDependencies": {
     "react": ">= 15.x",
